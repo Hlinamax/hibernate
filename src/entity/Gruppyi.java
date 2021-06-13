@@ -1,6 +1,4 @@
 package entity;
-// Generated 10.02.2021 12:26:38 by Hibernate Tools 4.3.1
-
 
 import java.util.Date;
 import java.util.List;
